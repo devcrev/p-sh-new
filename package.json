@@ -1,0 +1,15 @@
+{
+  "name": "p-sh-new",
+  "version": "1.0.0",
+  "author": "Allen Creveling <devcrev@gmail.com> (https://www.devcrev.com/)",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "format": "prettier --check ."
+  },
+  "devDependencies": {
+    "prettier": "^3.0.0",
+    "prettier-plugin-sh": "^0.13.0"
+  },
+  "dependencies": {}
+}
